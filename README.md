@@ -19,7 +19,7 @@ A widely adopted technique for dealing with highly unbalanced datasets is called
 | positive samples 	| 569877       	| 569877               	|         20663         	|         569877        	|            **562770**           	|
 | negative samples 	| 20663        	| 569877               	|         20663         	|         569877        	|             20663            	|
 
-It seems that the dataset exit a few of Tomek’s links thus most of the positive samples remained.
+It seems that the dataset exist a few of Tomek’s links thus most of the positive samples remained.
 
 ###  Experimental results:
 |sampling method   | w/o sampling	| random over-sampling  	|  random under-sampling 	|  SMOTE (Over-sampling) 	|  Tomek Links (under-sampling) 	|  Edited Nearest Neighbours (under-sampling)	|
